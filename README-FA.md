@@ -29,7 +29,7 @@ pkg install git && pkg install python && pip install urllib3
 ## قدم سوم: کپی کردن فایل بمبر در دستگاه
 
 ```
-git clone https://github.com/NiREvil/sms-bomber](https://github.com/mitiprog/sms-bomber
+git clone https://github.com/mitiprog/sms-bomber
 ```
 
 ## قدم چهارم: وارد شدن به پوشه بمبر
